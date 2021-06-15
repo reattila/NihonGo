@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NihonGo</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="new_kanji">New Kanji</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="kanji">Kanji</string>
+    <string name="hiranaga">Hiragana</string>
+    <string name="meaning">Jelentés</string>
+    <string name="practice">Practice</string>
+    <string name="kanji_list">Kanji list</string>
+    <string name="warn_message">Not enough kanji in the database! Minimum 8 kanji</string>
+</resources>

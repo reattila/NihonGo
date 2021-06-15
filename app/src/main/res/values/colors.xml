@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e0d0ac</color>
+    <color name="colorPrimaryDark">#9e9173</color>
+    <color name="colorAccent">#D6C08D</color>
+    <color name="floating_action_button_color">#ee6659</color>
+</resources>
